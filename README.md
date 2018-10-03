@@ -17,6 +17,6 @@ The project includes:
 
 - A GUI platform which allows to make various simulations depending on the ED resources.
 
-Contributor :
+Contributors :
 - Ahmed El Aamrani
 - Wassim Lhourti
