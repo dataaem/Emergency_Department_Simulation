@@ -16,3 +16,7 @@ The project includes:
 - A CLUI implementation with relevant Use Case Tests 
 
 - A GUI platform which allows to make various simulations depending on the ED resources.
+
+Contributor :
+- Ahmed El Aamrani
+- Wassim Lhourti
